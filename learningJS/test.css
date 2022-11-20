@@ -1,0 +1,12 @@
+.header{
+background-color: aqua;
+width: 100%;
+height: 50px;
+}
+
+ul{
+    display: inline;
+}
+#home{
+    color: blue;
+}
